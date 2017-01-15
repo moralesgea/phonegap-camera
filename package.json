@@ -1,0 +1,21 @@
+{
+  "name": "camera",
+  "version": "1.0.0",
+  "description": "Camera and filters app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moralesgea/phonegap-camera.git"
+  },
+  "author": "moralesgea",
+  "license": "Apache-2.0",
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "bugs": {
+    "url": "http://www.moralesga.es"
+  },
+  "homepage": "http://www.moralesgea.es"
+}
